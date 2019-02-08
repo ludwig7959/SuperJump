@@ -1,0 +1,61 @@
+#toggle Message setting
+Messages:
+  Enabled: "&fSuper Jump: &aEnabled"
+  Disabled: "&fSuper Jump: &cDisabled"
+
+#Set whether to damage or not to deal damage when fall.
+RemoveFallDamage: true
+
+#################################################################################
+##
+##   ___  _   _ ___  _________   _____  _____  _____  _____  _____  _   _  _____ 
+##  |_  || | | ||  \/  || ___ \ /  ___||  ___||_   _||_   _||_   _|| \ | ||  __ \
+##    | || | | || .  . || |_/ / \ `--. | |__    | |    | |    | |  |  \| || |  \/
+##    | || | | || |\/| ||  __/   `--. \|  __|   | |    | |    | |  | . ` || | __ 
+##/\__/ /| |_| || |  | || |     /\__/ /| |___   | |    | |   _| |_ | |\  || |_\ \
+##\____/  \___/ \_|  |_/\_|     \____/ \____/   \_/    \_/   \___/ \_| \_/ \____/
+##                                                                               
+##                                                                               
+##
+#################################################################################
+
+#Default jump setting
+Defaultjump:
+  sound: ENTITY_PLAYER_LEVELUP:1:1.8
+  angle: 30
+  power: 3.5
+
+#If you want to add a jump, only numbers(up to 10) after superjump are possible.
+superjump_1:
+  1:
+    sound: ENTITY_PLAYER_LEVELUP:1:1.8
+    angle: 30
+    power: 3.5
+
+superjump_2:
+  1:
+    sound: ENTITY_PLAYER_LEVELUP:1:1.8
+    angle: 30
+    power: 3.5
+  2:
+    sound: ENTITY_PLAYER_LEVELUP:1:1.8
+    angle: 30
+    power: 3.5
+superjump_3:
+  1:
+    sound: ENTITY_PLAYER_LEVELUP:1:1.8
+    angle: 30
+    power: 3.5
+  2:
+    sound: ENTITY_PLAYER_LEVELUP:1:1.8
+    angle: 30
+    power: 3.5
+  3:
+    sound: ENTITY_PLAYER_LEVELUP:1:1.8
+    angle: 30
+    power: 3.5
+superjump_infinite:
+  1:
+    sound: ENTITY_PLAYER_LEVELUP:1:1.8
+    angle: 30
+    power: 3.5

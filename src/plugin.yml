@@ -1,0 +1,8 @@
+name: SuperJump
+version: 1.0
+author: Ludwig Hornslied
+main: com.tistory.hornslied.superjump.SuperJump
+api-version: 1.13
+commands:
+  superjump:
+    aliases: [sj]
